@@ -1,6 +1,6 @@
 # Murphmon Tourney
 
-### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point Breakdown) | [Tourney awards](#Awards)
+### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney awards](#Awards)
 
 ## Tourney
 
